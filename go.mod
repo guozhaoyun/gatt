@@ -1,4 +1,4 @@
-module github.com/bettercap/gatt
+module github.com/guozhaoyun/gatt
 
 go 1.13
 

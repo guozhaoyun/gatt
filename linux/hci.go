@@ -6,9 +6,9 @@ import (
 	"log"
 	"sync"
 
-	"github.com/bettercap/gatt/linux/cmd"
-	"github.com/bettercap/gatt/linux/evt"
-	"github.com/bettercap/gatt/linux/util"
+	"github.com/guozhaoyun/gatt/linux/cmd"
+	"github.com/guozhaoyun/gatt/linux/evt"
+	"github.com/guozhaoyun/gatt/linux/util"
 	"golang.org/x/sys/unix"
 )
 
